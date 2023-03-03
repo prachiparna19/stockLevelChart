@@ -162,8 +162,8 @@ export const data = [
   {
     item: "Olives",
     name: "Sat",
-    currentStock: 60,
-    maxStock: 250,
+    currentStock: 70,
+    maxStock: 200,
     demand: 35,
     date: "03/04/23"
   },
@@ -274,8 +274,8 @@ export const data = [
   {
     item: "Pizza",
     name: "Sat",
-    currentStock: 60,
-    maxStock: 250,
+    currentStock: 57,
+    maxStock: 150,
     demand: 37,
     date: "03/04/23"
   },
@@ -386,8 +386,8 @@ export const data = [
   {
     item: "Pie",
     name: "Sat",
-    currentStock: 60,
-    maxStock: 250,
+    currentStock: 45,
+    maxStock: 180,
     demand: 18,
     date: "03/04/23"
   },
@@ -498,8 +498,8 @@ export const data = [
   {
     item: "Chicken",
     name: "Sat",
-    currentStock: 60,
-    maxStock: 250,
+    currentStock: 51,
+    maxStock: 200,
     demand: 48,
     date: "03/04/23"
   },
